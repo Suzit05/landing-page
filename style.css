@@ -1,0 +1,160 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    padding: 10px;
+}
+
+
+.firstHead {
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    background-color: #1f2937;
+    align-items: center;
+    gap: 38px;
+
+}
+
+.headLogo {
+    font-size: 24px;
+    color: #f9faf8;
+    margin-right: 700px;
+    font-style: italic;
+
+}
+
+.headlink {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.mainHead {
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: #1f2937;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+
+.textTitle {
+    font-size: 48px;
+    color: #f9faf8;
+    font-style: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.textTitleLow {
+    padding: -20px;
+    font-size: 18px;
+    color: #e5e7eb;
+    width: 350px;
+
+}
+
+button {
+    background-color: #3882f2;
+    color: white;
+    width: 100px;
+    margin: 10px;
+    border-radius: 8px;
+    border-color: #3882f2;
+}
+
+.image {
+    flex: 1;
+    padding: 10px;
+
+}
+
+.secHead {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.optionTopic {
+    padding-top: 10px;
+    font-size: 46px;
+    font-style: bold;
+    background-color: white;
+
+
+}
+
+.optionImgHead {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.optionImage {
+    padding: 0px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+
+
+
+
+}
+
+.imgBlw {
+    display: flex;
+    flex-direction: row;
+
+    gap: 157px;
+}
+
+.thirdHead {
+    background-color: #e5e7eb;
+    padding: 20px;
+
+}
+
+.thirdHeadText {
+    font-style: light;
+    font-size: 36px;
+    font-family: italic;
+    padding: 30px;
+    color: #1f2937;
+}
+
+.userReview {
+    margin-left: 1230px;
+    font-style: bold;
+
+    font-size: 22px;
+}
+
+.ctaContainer {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882f2;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    border: 80px solid white;
+
+
+}
+
+.leftC {
+    color: #e5e7eb;
+    margin-right: 100px;
+}
+
+.lastHead {
+    color: #e5e7eb;
+    padding: 30px;
+    margin-left: 600px;
+
+}
